@@ -1,1 +1,1 @@
-Prueba liquibase
+Funcionó la prueba
